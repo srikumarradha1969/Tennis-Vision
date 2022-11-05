@@ -2,7 +2,7 @@
 
 **About the Tennis Vision Project**
 
-The detection of white-colored tennis court lines is a standard feature in most Apps utilized for tennis coaching or training. In addition, such tennis apps' typical features include tennis ball tracking, player detection, etc. More areas of potential interest would include tennis serve speed measurement and a [Hawk-Eye kind of facility](https://www.topendsports.com/sport/tennis/hawkeye.ht) to determine if the ball is in or out during a serve or rally.
+The detection of white-colored tennis court lines is a standard feature in most tennis-related Apps for coaching or training. Other typical features include tennis ball tracking, player detection, etc. Further, there is speed measurement of the tennis serve and a [Hawk-Eye kind of facility](https://www.hawkeyeinnovations.com/track) to determine if the ball is in or out during a serve or rally.
 
 Professional products such as the Hawk-Eye include six or more computer-linked television cameras placed around the court. Hence, given its significant costs, cost-effective options will be needed, such as video from a mobile device's camera kept on a stand, which can provide some real-time feedback during coaching sessions. 
 
